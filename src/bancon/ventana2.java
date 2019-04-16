@@ -16,8 +16,13 @@ public class ventana2 extends javax.swing.JFrame {
      */
     public ventana2() {
         initComponents();
+        tabla();
     }
+public tabla(){
 
+
+
+}
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
